@@ -1,10 +1,11 @@
 import React from "react";
+import logo from "../assets/navLogo.png";
 
 function NavBrand() {
   return (
     <a className="navbar-brand" href="/">
       <img
-        src="./images/navLogo.png"
+        src={logo}
         alt="Logo"
         width="30"
         height="30"

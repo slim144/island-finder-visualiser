@@ -3,6 +3,7 @@ import NavBar from "./NavBar/NavBar";
 import Grid from "./Grid/Grid";
 import findIsland from "./algorithm/findIsland";
 import Header from "./Header/BodyHeader";
+import "./styles.css";
 
 let rowSearch = 12;
 let colSearch = 35;

@@ -154,7 +154,7 @@ a.dropdown-item:hover {
 }
 
 .legend-icon-search-point {
-  background: url(./images/circle.svg);
+  background: url(./assets/circle.svg);
   background-size: 23px 23px;
   background-repeat: no-repeat;
   background-position: center;
@@ -212,7 +212,7 @@ a.dropdown-item:hover {
 }
 
 .search-point {
-  background: url(./images/circle.svg);
+  background: url(./assets/circle.svg);
   background-size: 23px 23px;
   background-repeat: no-repeat;
   background-position: center;
